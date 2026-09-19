@@ -308,4 +308,4 @@ Queries the Reasoning Model for action trajectories and verification states.
 
 ## License
 
-*(Attach your chosen open-source or proprietary license here, e.g., MIT, Apache 2.0, or Proprietary.)*
+GNU
